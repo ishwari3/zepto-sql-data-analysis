@@ -18,7 +18,7 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Provides a starting point for evaluating promotional strategies.
 * Can help investigate whether high discounts are concentrated among particular products.
 
-**Finding:** [Add the top products and their discount percentages from your query output.]
+
 
 ### 2.2 High-Priced Products That Are Out of Stock
 
@@ -30,7 +30,7 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Helps identify products that may deserve further stock availability investigation.
 * Provides information for reviewing inventory replenishment priorities.
 
-**Finding:** [Add the number of qualifying products and examples from your query output.]
+
 
 ### 2.3 Estimated Inventory Value by Category
 
@@ -42,9 +42,6 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Identifies categories with relatively high or low inventory value.
 * Can support inventory allocation and stock planning discussions.
 
-**Finding:** [Add the categories with the highest and lowest estimated inventory values.]
-
-*Note: This is estimated inventory value, not actual sales revenue.*
 
 ### 2.4 High-MRP Products with Low Discounts
 
@@ -56,7 +53,6 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Supports further investigation of premium pricing strategies.
 * Can help examine how discounts vary across product price ranges.
 
-**Finding:** [Add the number of qualifying products and a few examples.]
 
 ### 2.5 Categories with the Highest Average Discounts
 
@@ -68,7 +64,7 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Helps identify categories where promotional activity may be more pronounced.
 * Provides a basis for further analysis of category-level pricing strategies.
 
-**Finding:** [List the five categories and their average discounts.]
+
 
 ### 2.6 Price per Gram Analysis
 
@@ -80,7 +76,6 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Helps identify products with relatively low or high prices per gram.
 * Can support unit-price comparisons when evaluating product value.
 
-**Finding:** [Add the products with the lowest and highest price per gram from your results.]
 
 ### 2.7 Product Weight Segmentation
 
@@ -96,7 +91,7 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * May help support packaging, storage, and logistics analysis.
 * Creates a foundation for comparing inventory characteristics across product segments.
 
-**Finding:** [Add the number of products in each weight segment if you calculate those counts.]
+
 
 ### 2.8 Total Inventory Weight by Category
 
@@ -108,7 +103,6 @@ The analysis uses SQL queries to examine product-level and category-level patter
 * Can inform storage capacity and inventory handling discussions.
 * May help identify categories worth examining for logistics optimization.
 
-**Finding:** [Add the categories with the highest and lowest total inventory weights.]
 
 ## 3. Overall Observations
 
