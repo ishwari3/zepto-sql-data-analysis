@@ -22,8 +22,8 @@ SQL queries are included in the repository for reference.
 
 ## Project Files
 
-* `your_dataset.csv` – Raw dataset used for analysis
-* `your_sql_file.sql` – SQL queries written for data analysis
+* `zepto_v2.csv` – Raw dataset used for analysis
+* `analysis.sql` – SQL queries written for data analysis
 
 ## Key Learnings
 
